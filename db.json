@@ -108,6 +108,26 @@
             ],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655709443/etstur/image0_kmmio0.jpg"
         }
+        ,
+        {
+            "id":6,
+            "title":"Bir Delinin Hatıra Defteri",
+            "startingDate":"2022-06-18T20:00:00.141Z",
+            "finishingDate":"2022-06-30T20:00:00.141Z",
+            "category":"Theatre",
+            "description":"KüçükÇiftlik Bahçe Tiyatrosu’nun 3. Sezonunda İlk Oyun Erdal Beşikçioğlu’ndan! Yaz ayları boyunca birçok sevilen tiyatro grubunu tam kapsamlı sahnesinde ağırlayacak olan KüçükÇiftlik Bahçe Tiyatrosu’nun 2022 sezonunda program, Tatbikat Sahnesi’nin kült oyunu “Bir Delinin Hatıra Defteri” ile açılacak. Hikâye, Çar 1. Nikolay’ın baskıcı devrinde yaşamış küçük bir devlet memurunun hayatı üzerine merkezlenir. Günlük formatında yazılan hikâye, başkahraman Poprişçin’in deliliğe doğru gidişini anlatır. Yaşadığı sıkıcı ve tekdüze hayata bir de müdürünün kızına duyduğu aşk eklenince içindebulunduğu girdap iyice büyür. Aksenti İvanoviç Poprişçin’in baskıcı sistemde boyun eğmemeçabaları ve yaşadığı psikolojik gel-gitler, kendisini İspanya Kralı sanmasına kadar devam ederve akıl hastanesine kapatılmasıyla son bulur",
+            "venue":"KüçükÇiftlik Park",
+            "rules":[
+                "Kapı açılış saati 19:30'dur.",
+                "Her yaştan katılımcı bilete tabidir. Her oyuna ilişkin yaş sınırı etkinliğin satış sayfasında belirtilmiştir. Belirtilen yaşın altındaki izleyiciler kabul edilmeyecektir. ",
+                "Etkinliklere katılacak 18 yaş altı kişilerin yanlarında mutlaka ebeveynleri (anne - baba - vasi) yanında bulunmak zorundadır. ",
+                "Etkinlik alanına Selfie Stick ve GoPro çubukları ile girmek yasaktır. ",
+                "Organizasyon şirketi, bilet fiyatlarında değişiklik yapma hakkına sahiptir. - Dışarıdan yiyecek ve içecek getirilmesi yasaktır.",
+                "Etkinlik alanına yanıcı, patlayıcı (deodorant, sprey, parfüm vb. gibi), parlayıcı, kesici ve delici olarak kullanılabilecek her türlü alet ve lazer imleci ile girmek yasaktır. ",
+                "18 yaş altı katılımcılara alkol ve tütün ürünleri satışı yasaktır. "
+            ],
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655711023/etstur/2859410_1920x1080_cj5ger.jpg"
+        }
     ],
        
     
