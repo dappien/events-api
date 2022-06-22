@@ -18,7 +18,8 @@
             ],
             "ticketPrices":160,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655652414/etstur/tomodell-1080x1080-1-800x800_eazrnx.png",
-            "artists":["Tom Odell","Perdenin Ardındakiler"]
+            "artists":["Tom Odell","Perdenin Ardındakiler"],
+            "artistCode":["tom-odell","perdenin-ardindakiler"]
         }
         ,
         {
@@ -37,7 +38,8 @@
             ],
             "ticketPrices":[100,250,400,600,1000],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655652414/etstur/pinkkkk_jtmf1y.png",
-            "artists":["Pink Martini"]
+            "artists":["Pink Martini"],
+            "artistCode":["pink-martini"]
         }
         ,
         {
@@ -63,7 +65,8 @@
             ],
             "ticketPrices":[100,200,300,400],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655655405/etstur/Ekran_Al%C4%B1nt%C4%B1s%C4%B12_tbryls.png",
-            "artists":["Feridun Duzagac","Redd"]
+            "artists":["Feridun Duzagac","Redd"],
+            "artistCode":["feridun-duzagac","redd"]
         },
         {
             "id":3,
@@ -83,7 +86,8 @@
             ],
             "ticketPrices":[150,250,350,450],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655655785/etstur/cfa97-manganin-antroposen-turnesi-bugun-basliyor-turneyi-an-epic-symphony-ile-tamamlayacaklar_skd5hi.jpg",
-            "artists":["manga"]
+            "artists":["manga"],
+            "artistCode":["manga"]
         }
         ,
         {
@@ -106,7 +110,8 @@
             ],
             "ticketPrices":1700,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655707046/etstur/Oludeniz-Yamac-Parasutu-600x450_slw1wr.jpg",
-            "artists":["no artists"]
+            "artists":["no artists"],
+            "artistCode":["no-artists"]
         }
         ,
         {
@@ -130,7 +135,8 @@
             ],
             "ticketPrices":240,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655709443/etstur/image0_kmmio0.jpg",
-            "artists":["Pentagram"]
+            "artists":["Pentagram"],
+            "artistCode":["pentagram"]
         }
         ,
         {
@@ -154,7 +160,8 @@
             ],
             "ticketPrices":180,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655711023/etstur/2859410_1920x1080_cj5ger.jpg",
-            "artists":["Erdal Beşikçioğlu"]
+            "artists":["Erdal Beşikçioğlu"],
+            "artistCode":["erdal-besikcioglu"]
         }
         ,
         {
@@ -174,7 +181,8 @@
             ],
             "ticketPrices":75,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655837761/etstur/ywyozi42bfljdwm0oevl.jpg",
-            "artists":["no artists"]
+            "artists":["no artists"],
+            "artistCode":["no-artists"]
         }
         ,
         {
@@ -194,7 +202,8 @@
             ],
             "ticketPrices":200,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655838553/etstur/anka_tf2ymw.png",
-            "artists":["no artists"]
+            "artists":["no artists"],
+            "artistCode":["no-artists"]
         }
         ,
         {
@@ -214,9 +223,29 @@
             ],
             "ticketPrices":280,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655839207/etstur/18132fYHdD_rvz9dm.jpg",
-            "artists":["no artists"]
+            "artists":["no artists"],
+            "artistCode":["no-artists"]
         }
-
+        ,
+        {
+            "id":10,
+            "title":"Madea Kali",
+            "url":"madea-kali",
+            "startingDate":"2022-06-22T18:00:00.141Z",
+            "finishingDate":"2022-06-28T22:00:00.141Z",
+            "category":"Theatre",
+            "description":"MEDEA KALİ seyircisiyle buluşuyor! Medea, büyücü kraliçe. Medusa, Yunan mitolojisinde gözlerine bakanı taşa çeviren yılan saçlı kadın. Kali, Hint zaman ve kıyamet tanrıçası. Tek vücutta üç mitolojik figür, üç fantastik varlık... Arzulanan, aşık olunan ancak aşağılanan büyülü kadın. Aldatılan kraliçe, anne...Kendi mirasını korumaya çalışan bir savaşçı, doğuran ve yok eden tanrıça. MEDEA KALİ oyunu, kadının arketipsel imgelerine dair hem şiddetli, hem şiirsel bir öykü sunuyor.Ünlü Fransız yazar Laurent Gaude’nin usta kaleminden çıkan bu eser,  ilk kez Avingon Festivali’nde gösterildikten sonra, hızla popülerleşerek dünyanın pek çok ülkesinde sahnelenmiştir.",
+            "venue":"KüçükÇiftlik Park",
+            "venueCode":"kucukciftlik-park",
+            "rules":[
+                "Etkinlik girişinde bilet kontrolü yapılacaktır, biletinizi telefondan göstermeniz gerekmektedir.",
+                "Katılımcılar/izleyiciler COVID-19 kapsamında alınan kurallara uymalıdır."
+            ],
+            "ticketPrices":[60,90,120,150,180],
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655917251/etstur/medea-kali-3-2_zvcrrq.jpg",
+            "artists":["no artists"],
+            "artistCode":["no-artists"]
+        }
     ],
     
 
@@ -264,7 +293,7 @@
             "seatingArrangement":true,
             "seatingArrangementType":"structure3",
             "venueImages":[
-                "https://res.cloudinary.com/droheqpxn/image/upload/v1655652413/etstur/Acikhava-ic_z4dpxi.jpg",
+                "https://res.cloudinary.com/droheqpxn/image/upload/v1655919141/vadi_txd1ij.png",
                 "https://res.cloudinary.com/droheqpxn/image/upload/v1655652464/etstur/harbiye-cemil-topuzlu-acik-hava-tiyatrosu_a5aj07.jpg"
             ]
         }
@@ -333,6 +362,74 @@
         }
     ]
 
+    ,
+
+    "artists":[
+        {
+            "id":0,
+            "name":"Manga",
+            "artistCode":"manga",
+            "information":"maNga, Ankara kökenli Alternatif Rock, Nu-Metal ve Rapcore tarzlarında müzik yapan Türk rock grubudur. Grup beş stüdyo albümüne sahip olup son albümleri Antroposen 001'i 14 Aralık 2021 tarihinde piyasaya sürdü. Antroposen 001, grubun Işıkları Söndürseler Bile'den (2014) sonra yaklaşık yedi yıl sonra yayınladığı ilk stüdyo albümüdür ve grubun iki stüdyo albümleri arasındaki en uzun farktır.",
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655917872/etstur/5708fdef67b0a961b80f2034_s6mvxd.jpg"
+        }
+        ,
+        {
+            "id":1,
+            "name":"Pentagram",
+            "artistCode":"pentagram",
+            "information":"Pentagram (veya Türkiye dışındaki adıyla Mezarkabul), kuruculuğunu Hakan Utangaç ve Cenk Ünnü'nün yaptığı Türk heavy metal grubudur. Grubun icra ettiği metal türü dönem dönem büyük değişimlere uğramıştır. Pentagram isimli ilk albümleri speed metal etkisinin baskın olduğu bir thrash metal albümüydü. İkinci albümleri Trail Blazer ise daha gelişmiş thrash metal müziği barındırmakla birlikte speed metal etkisinin azaldığı bir albümdür. Pentagram esas müzikal değişimini ve kendine has tarzını 1997 yılında çıkan üçüncü albümü Anatolia ile oluşturdu. Bu albümle birlikte Pentagram, müziğinde agresifliği azaltarak thrash metali tamamen terk etti. Anadolu ezgilerini ve orta doğunun müzikal etkilerini barından klasik heavy metal tarzını benimsedi. Anatolia'dan sonra çıkan Unspoken ve bir albümlerinde de bu çizgisini sürdürdü.",
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918011/etstur/Pentagram__28M_C3_BCzik_Grubu_29_teiazg.jpg"
+        }
+        ,
+        {
+            "id":2,
+            "name":"Erdal Beşikçioğlu",
+            "artistCode":"erdal-besikcioglu",
+            "information":"5 Ocak 1970 tarihinde Ankara'da dünyaya geldi. Babası Ünyeli,[2] annesi ise Priştine'den Ankara'ya göç etmiş bir ailenin kızıdır.[3] Orta öğrenimini İzmir Özel Türk Koleji'nde tamamladı. İzmir Narlıdere Mehmet Seyfi Eraltay Lisesi'nden mezun oldu. 1989 yılında Hacettepe Üniversitesi Devlet Konservatuvarı'na girdi. Konservatuvar eğitimi sırasında İngiliz tiyatro yönetmeni William Gaskill'in yaratıcı drama üzerine atölye çalışmalarına katıldı. 1993 yılında mezun oldu ve aynı yıl Devlet Tiyatroları'nda oyuncu olarak göreve başladı. 1995–96 sezonunda Diyarbakır Devlet Tiyatrosu'nda Müdür Vekili olarak görev aldı.",
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918206/etstur/yjuoopdgqhmwwjymalve.jpg"
+        }
+        ,
+        {
+            "id":3,
+            "name":"Feridun Düzağaç",
+            "artistCode":"feridun-duzagac",
+            "information":"İlkokulu Adana Hayriye Kemal Kusun İlkokulu'nda okudu. Ortaokulu ise Adana'da Seyhan Ortaokulu'nda bitirdi. Adana Borsa Lisesi'nde okurken okul korosunda ilk müzik deneyimlerini kazandı. Mezun olduktan sonra Çukurova Üniversitesi İktisadi ve İdari Bilimler Fakültesi İşletme Bölümünü'nü tamamladı. Üniversite yıllarında okuldaki arkadaşları ile amatörce başladığı müzik hayatında ilk kez Mersin'de Tını grubunun solisti olarak insanların karşısında şarkı söylemeye başladı.",
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918356/220px-Feridun_D_C3_BCza_C4_9Fa_C3_A7_-_18.2.22d_tp2pnj.jpg"
+        }
+        ,
+
+        {
+            "id":4,
+            "name":"Redd",
+            "artistCode":"redd",
+            "information":"Redd, 1996 yılında Doğan Duru, Güneş Duru, Berke Hatipoğlu ve İlke Hatipoğlu tarafından kurulan Türk rock müzik grubudur. Grup 2020 itibarıyla altı stüdyo albümü, bir soundtrack albüm ve bir DVD yayımladı. 2010 Ocak ayında askerden dönen Berke Özgümüş resmen gruba katıldı.Berke ve İlke Hatipoğlu 12.09.2014 tarihinde Redd'in resmi Twitter sayfasından yaptığı açıklamayla Redd'den ayrıldıklarını ve bu nedenle Redd'in dağıldığını ilan ettiler. Hatipoğlu tarafı bu açıklamada Redd isminin kullanılması durumunda yasal işlem başlatacaklarını açıkladılar.[1]",
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918513/300px-Redd_in_red_gmr5nb.jpg"
+        }
+        ,
+        {
+            "id":5,
+            "name":"Pink Martini",
+            "artistCode":"pink-martini",
+            "information":"Pink Martini küçük orkestra Portland, Oregon'da 1994 yılında piyanist Thomas M. Lauderdale tarafından kurulmuş müzik grubudur. Latin müziği, lounge, Avrupa Klasik Müziği ve cazı da kapsayan çok geniş bir müzik repartuarında eserler seslendirmektedirler. Müzik tarzları genellikle belli bir dönemin içerik ve stilini andıran vintage music olarak adlandırılır. Grubun birleşmesi Portland'daki politik ortam sayesinde olmuştur.[1] Avrupa'daki ilk sahne deneyimlerini Cannes Film Festivali ile yapmışlardır.[1] 2003 yılına kadar; Fransa, İspanya, Portekiz, Belçika, İsviçre, Monako, Yunanistan, Türkiye, Peru, Tayvan, Lübnan ve ABD'de çeşitli defalar sahne almışlar ve grup dışında başka orkestralara da eşllik etmişlerdir. Şarkı sözleri İngilizce, İspanyolca, Fransızca, İtalyanca, Portekizce, Japonca,Türkçe, Arap ve Modern Yunan dillerinden oluşmaktadır.[1]",
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918653/mesgd2bvzlecrewa5wut.jpg"
+        }
+        ,
+        {
+            "id":6,
+            "name":"Perdenin Ardındakiler",
+            "artistCode":"pink-martini",
+            "information":"Kısa bir çalışma döneminden sonra da ilk teklileri “Gökyüzü”nü yapan ikili grup ismi hakkında bir ortaklık sağlayamadıkları için şarkıyı yayımlamak için bir süre beklemişler. Nihayetinde Doruk Ereşter’in okuduğu bir yazının içinde geçen cümlelerden birinde “Perdenin Ardındakiler”e rastlamış ve bunu Direnç’le paylaşmış. Grubun tavrı ve idealleri ile bu ismin örtüştüğünü düşünmüşler ve yola bu isimle çıkma kararı almışlar. Bu isimle anlatılmak istenen tavır ise oldukça karakteristik.",
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918995/izdjt79aswrhtcz0herz.jpg"
+        }
+        ,
+        {
+            "id":7,
+            "name":"No Artists",
+            "artistCode":"perdenin-ardindakiler",
+            "information":"No Available Information",
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918847/uq4giqprmianifj0avpf.jpg"
+        }
+    ]
    
 }
 
