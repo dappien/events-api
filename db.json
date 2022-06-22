@@ -10,6 +10,7 @@
             "description":"Billboard dergisinin müziğini;  duygusal, işlenmemiş ve Jeff Buckley ile karşılaştırılabilecek kadar dingin’ olarak tanımladığı, BRIT Awards sahibi İngiliz şarkıcı ve söz yazarı Tom Odell,Enter The Music festivali kapsamında 30 Haziran gecesi ODTÜ MD Vişnelik Çim Amfi'de sahnede olacak. Tom Odell'den önce, müzik düyasının son dönem parlayan isimleri Ankara'lı Perdenin Ardındakiler, Batu  Akdeniz ve Al'york sahne alacak.Another Love’ ile listeleri altüst eden; Elton John, Leonard Cohen ve Bob Dylan şarkılarını dinleyerek büyüdüğünü söyleyen Odell, duygusal ve insanı ruhundan yakalayan melodileriyle hayat bulan albümü ‘Long Way Down’ı, 2013 yılında çıkardı.Geçtiğimiz yıl son albümü 'Monsters'ı yayınlayan Tom Odell, romantik şarkılarını Türk hayranları için seslendirecek.",
             "venue":"ODTÜ MD Vişnelik Çim Amfi",
             "venueCode":"odtu-md",
+            "city":"ankara",
             "rules":[
                 "Belirtilen saat (16:00) kapı açılış saatidir.",
                 "18 yaş altı katılımcılara alkol ve tütün ürünleri satışı yasaktır.",
@@ -32,6 +33,7 @@
             "description":"Pink Martini, Avrupa Turnesi Kapsamında Pasion Turca Organizasyonu ile 26 Temmuz'da İstanbul'da! “Sympathique”, “Hang on Little Tomato”, “Hey Eugene!”, “Splendor in the Grass”, “Joy to the World”, “1969”, “A Retrospective”, “Get Happy”, “Dream A Little Dream” ve “Je Dis Oui” albümleriyle Türkiye'de büyük bir hayran kitlesine sahip olan, her albümü ile altın ve platin plak kazanan Pink Martini, Avrupa turnesi kapsamında Pasion Turca organizasyonu ile 26 Temmuz’da Harbiye Açıkhava Tiyatrosu’nda Türkiye’deki hayranları ile buluşacak.En son yayınladıkları stüdyo albümleri “Je Dis Oui” de birbirinden güzel ve unutulmaz eserlerle yepyeni şarkıları yorumlayan grup, Türk sevenlerine de büyük bir sürpriz yaparak “Aşkım Bahardı” şarkısına yer vermişti.2019 yılında Heinz Record etiketiyle şarkıcı, söz yazarı ve gitarist Edna Vazquez ile birlikte 5 şarkıdan oluşan Besame Mucho EP’si ve aynı yıl Jimmie Herrod ile birlikte kaydettiği 5 şarkılık Tomorrow EP’sini yayınlayan Pink Martini, Portland Oregon’da kaydedilen ilk streaming konserlerini 17 Aralık’ta “Home for Holidays” konseptiyle, 31 Aralık’ta “Good Riddance 2020” konseri ile izleyici ile buluşturdu. Kendilerini “Dünyanın değişik köşelerinden melodileri ve ritimleri bir araya getirerek modern bir formda sunan müzik arkeologları” olarak tarif eden topluluğun şarkıları, La Casa De Papel’den The West Wing’den Desperate Houseviwes’a kadar birçok dizi ve filmde de yer buldu.",
             "venue":"İstanbul Büyükşehir Belediyesi Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
             "venueCode":"harbiye-cemil-topuzlu",
+            "city":"istanbul",
             "rules":[
                 "8 yaş ve üstü bilete tabidir. 8 yaş ve altı mekana alınmamaktadır.",
                 "Etkinliğe katılan kişilerin fotoğraf ve video çekimlerinin tanıtım materyallerinde kullanım hakkı etkinlik organizasyonuna ait olup katılımcı, etkinliğe katılarak bu hakkın kullanılmasını kabul etmektedir."
@@ -52,6 +54,7 @@
             "description":"Billboard dergisinin müziğini;  duygusal, işlenmemiş ve Jeff Buckley ile karşılaştırılabilecek kadar dingin’ olarak tanımladığı, BRIT Awards sahibi İngiliz şarkıcı ve söz yazarı Tom Odell,Enter The Music festivali kapsamında 30 Haziran gecesi ODTÜ MD Vişnelik Çim Amfi'de sahnede olacak. Tom Odell'den önce, müzik düyasının son dönem parlayan isimleri Ankara'lı Perdenin Ardındakiler, Batu  Akdeniz ve Al'york sahne alacak.Another Love’ ile listeleri altüst eden; Elton John, Leonard Cohen ve Bob Dylan şarkılarını dinleyerek büyüdüğünü söyleyen Odell, duygusal ve insanı ruhundan yakalayan melodileriyle hayat bulan albümü ‘Long Way Down’ı, 2013 yılında çıkardı.Geçtiğimiz yıl son albümü 'Monsters'ı yayınlayan Tom Odell, romantik şarkılarını Türk hayranları için seslendirecek.",
             "venue":"Turkcell Vadi",
             "venueCode":"turkcell-vadi",
+            "city":"istanbul",
             "rules":[
                 "6 yaş altı giremez, 6 yaş üstü bilete tabidir.",
                 "Konser alanına dışarıdan yiyecek ve içecek alınmayacaktır.",
@@ -78,6 +81,7 @@
             "description":"Turkcell’in klasikleşmiş Turkcell Yıldızlı Geceler konserleri, bu yaz da sanatseverleri sevdikleri sanatçılarla bir araya getirecek. 29 Temmuz - 7 Ağustos tarihleri arasında Türkiye’nin en yeni en genç açıkhava sahnesi Turkcell Vadi’de gerçekleştirilecek konserlerde Manga 30 Temmuz’da sevenleriyle buluşacak.",
             "venue":"Turkcell Vadi",
             "venueCode":"turkcell-vadi",
+            "city":"istanbul",
             "rules":[
                 "6 yaş altı giremez, 6 yaş üstü bilete tabidir.",
                 "Konser alanına dışarıdan yiyecek ve içecek alınmayacaktır.",
@@ -100,6 +104,7 @@
             "description":"Ön buzullaşma çağını yaşamamış nadir dağlardan biri olan Babadağ, Dünya Kültürel Mirası Koruma Vakfının koruma altına alınması gerektiğini savunduğu 100 dağdan biri. 1965 metre yüksekliği ve zengin florasıyla masmavi bir cennetten, tüm heybetiyle göğe uzanan Babadağ, aynı zamanda dünyadaki en ünlü paraşüt kalkış pistlerine sahip. Uçar uçmaz sizi karşılayan yaylaların,engin turkuazlıklara karıştığı nefes kesen manzarası, stabil hava koşulları ve Ölüdeniz’in  bakir, el değmemiş doğası sayesinde her yıl binlerce turisti kendine çekmektedir. 2009 yılında Dünyanın en iyi plajı seçilen Ölüdeniz Plajı ve hareketli yaşantısıyla ünlenmiş Hisarönü tatil bölgesinin yakınlarında bulunmaktadır.Aktivitemizde ; sizleri  konakladığınız otelden transfer araçlarımız ile alıyor ve Ölüdeniz'deki “HanumanTravel” ofisimize geliyoruz. Uçuş için  sizlerle ve pilotlarımız ile birlikte Babadağ’a çıkmak üzere , araçlarımız ile yola koyuluyoruz. Ofisimizin önünden uçuş pistine varmamız yaklaşık 25-30 dakika kadar sürüyor. Bir çok kültürde kutsal sayılan Sedir, Sandal, Ardıç ve Defne ağaçlarının çam ormanlarına karıştığı yollardan ilerlediğimiz bu kısa ama doyumsuz yolculuk sonrası kalkış alanına ulaşıyoruz. ",
             "venue":"Hanuman Paragliding Ölüdeniz",
             "venueCode":"hanuman-paragliding",
+            "city":"mugla",
             "rules":[
                 "Biletinizi satın aldıktan sonra Biletix referans numaranız ile birlikte (0553 8367300) numaralı telefondan rezervasyon yapılması zorunludur.",
                 "Satın alınan biletlerde iptal, iade ve değişiklik yapılmamaktadır.",
@@ -124,6 +129,7 @@
             "description":"Milyon Yapım tarafından Umut Kuzey’in öncülüğünde gerçekleşecek MilyonFest Metal Kampı, 01 - 02 - 03 Temmuz tarihlerinde Milyon Beach Kilyos'ta.&&&01.07.2022&&PENTAGRAM&&METALIUM&&Diken  Kaptan Kadavra&&Nufftalk&&Sis",
             "venue":"Milyon Beach Kilyos",
             "venueCode":"milyon-beach-kilyos",
+            "city":"istanbul",
             "rules":[
                 "Festival alanına profesyonel ses ve görüntü kaydı yapan cihazlar, içecekler, cam, plastik şişe, teneke, havai fişek, yanıcı parlayıcı her türlü nesne (parfüm, böcek ilacı vb.), silah veya keskin nesneler getirmek yasaktır. Ayrıca yanınızda getirmeyi planladığınız katlanabilir sandalye ya da şemsiyeler güvenlik tarafından içeri alınmayabilir",
                 "Satın alınan biletlerde iptal, iade ve değişiklik yapılmamaktadır.",
@@ -149,6 +155,7 @@
             "description":"KüçükÇiftlik Bahçe Tiyatrosu’nun 3. Sezonunda İlk Oyun Erdal Beşikçioğlu’ndan! Yaz ayları boyunca birçok sevilen tiyatro grubunu tam kapsamlı sahnesinde ağırlayacak olan KüçükÇiftlik Bahçe Tiyatrosu’nun 2022 sezonunda program, Tatbikat Sahnesi’nin kült oyunu “Bir Delinin Hatıra Defteri” ile açılacak. Hikâye, Çar 1. Nikolay’ın baskıcı devrinde yaşamış küçük bir devlet memurunun hayatı üzerine merkezlenir. Günlük formatında yazılan hikâye, başkahraman Poprişçin’in deliliğe doğru gidişini anlatır. Yaşadığı sıkıcı ve tekdüze hayata bir de müdürünün kızına duyduğu aşk eklenince içindebulunduğu girdap iyice büyür. Aksenti İvanoviç Poprişçin’in baskıcı sistemde boyun eğmemeçabaları ve yaşadığı psikolojik gel-gitler, kendisini İspanya Kralı sanmasına kadar devam ederve akıl hastanesine kapatılmasıyla son bulur",
             "venue":"KüçükÇiftlik Park",
             "venueCode":"kucukciftlik-park",
+            "city":"istanbul",
             "rules":[
                 "Kapı açılış saati 19:30'dur.",
                 "Her yaştan katılımcı bilete tabidir. Her oyuna ilişkin yaş sınırı etkinliğin satış sayfasında belirtilmiştir. Belirtilen yaşın altındaki izleyiciler kabul edilmeyecektir. ",
@@ -174,6 +181,7 @@
             "description":"Boğazın mavisiyle iç içe yoga dersleri, Sait Halim Paşa Yalısı'nda sizlerle... Sait Halim Paşa Yalısı’nda muhteşem Boğaz manzarası eşliğinde yoga dersleri ile hem ruhunuzu hem de bedeninizi dinlendirmeye ne dersiniz? Boğaz’ın en güzel yapılarından Sait Halim Paşa Yalısı’nda, Boğazın mavisiyle iç içe yoga dersleri her seviyeden yoga severi bekliyor. YogaŞala’nın deneyimli hocası Duygu Erokan eğitmenlik yapacağı Vinyasa Yoga dersleri her çarşamba sabahı 10.00-11.00 saatleri arasında Harem Bahçe Salonu’nda gerçekleşecek.Yoga matlarının katılımcılar tarafından getirilmesini rica ederiz.",
             "venue":"KüçükÇiftlik Park",
             "venueCode":"kucukciftlik-park",
+            "city":"istanbul",
             "rules":[
                 "Resimler temsili olup yoga yapılacak salon Sait Halim Paşa Yalısı tarafından müsaitlik doğrultusunda belirlenecektir.",
                 "Yoga matlarının katılımcılar tarafından getirilmesini gerekmektedir. ",
@@ -195,6 +203,7 @@
             "description":"Resim Workshop - Kiss, Ankaworkshop'ta sizlerle...Bu workshop'umuzda daha önce resim çizmemiş, elinize hiç fırça almamış olabilirsiniz. Hiç önemli değil, eğitmenlerimiz eşliğinde kendi sanat eserinizi yapmanız için sizleri bekliyoruz. Üstelik tüm malzemeler, ikramlar ve müzikler bizden.",
             "venue":"Turkcell Vadi",
             "venueCode":"turkcell-vadi",
+            "city":"istanbul",
             "rules":[
                 "Katılımcılar/izleyiciler COVID-19 kapsamında alınan kurallara uymalıdır. ",
                 "Etkinliklerde 15 yaş sınırı vardır.",
@@ -216,6 +225,7 @@
             "description":"Bu yıl üçüncüsü gerçekleşecek Burgazada Retro Fest, 02-03 Temmuz'da sizlerle. Konserler, Retro Pazar, Oyunlar, Anı Köşeleri ve sürprizler içeren Burgazada Retro Fest; bu sene 3. organizasyonuyla Burgazada Cennet Bahçesi'nde sizlerle. Avantajlı bilet dönemini kaçırmayın!İstanbul'un alternatif açık hava sahnesi Cennet Bahçesi'nin ev sahipliğini yaptığı Retro Fest bu sene iki gün gerçekleşiyor. Burgazada'da doğa içinde eşsiz atmosferiyle güzel bir hafta sonu bizleri bekliyor. ",
             "venue":"Turkcell Vadi",
             "venueCode":"turkcell-vadi",
+            "city":"istanbul",
             "rules":[
                 "Etkinlikte 18 yaş sınırı vardır. 18 yaş altı ebeveynleri ile etkinliğe katılabilirler.",
                 "Belirtilen saat kapı açılış saatidir.",
@@ -237,6 +247,7 @@
             "description":"MEDEA KALİ seyircisiyle buluşuyor! Medea, büyücü kraliçe. Medusa, Yunan mitolojisinde gözlerine bakanı taşa çeviren yılan saçlı kadın. Kali, Hint zaman ve kıyamet tanrıçası. Tek vücutta üç mitolojik figür, üç fantastik varlık... Arzulanan, aşık olunan ancak aşağılanan büyülü kadın. Aldatılan kraliçe, anne...Kendi mirasını korumaya çalışan bir savaşçı, doğuran ve yok eden tanrıça. MEDEA KALİ oyunu, kadının arketipsel imgelerine dair hem şiddetli, hem şiirsel bir öykü sunuyor.Ünlü Fransız yazar Laurent Gaude’nin usta kaleminden çıkan bu eser,  ilk kez Avingon Festivali’nde gösterildikten sonra, hızla popülerleşerek dünyanın pek çok ülkesinde sahnelenmiştir.",
             "venue":"KüçükÇiftlik Park",
             "venueCode":"kucukciftlik-park",
+            "city":"istanbul",
             "rules":[
                 "Etkinlik girişinde bilet kontrolü yapılacaktır, biletinizi telefondan göstermeniz gerekmektedir.",
                 "Katılımcılar/izleyiciler COVID-19 kapsamında alınan kurallara uymalıdır."
@@ -362,81 +373,8 @@
         }
     ]
 
-    ,
 
-    "artists":[
-        {
-            "id":0,
-            "name":"Manga",
-            "artistCode":"manga",
-            "information":"maNga, Ankara kökenli Alternatif Rock, Nu-Metal ve Rapcore tarzlarında müzik yapan Türk rock grubudur. Grup beş stüdyo albümüne sahip olup son albümleri Antroposen 001'i 14 Aralık 2021 tarihinde piyasaya sürdü. Antroposen 001, grubun Işıkları Söndürseler Bile'den (2014) sonra yaklaşık yedi yıl sonra yayınladığı ilk stüdyo albümüdür ve grubun iki stüdyo albümleri arasındaki en uzun farktır.",
-            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655917872/etstur/5708fdef67b0a961b80f2034_s6mvxd.jpg",
-            "category":"music"
-        }
-        ,
-        {
-            "id":1,
-            "name":"Pentagram",
-            "artistCode":"pentagram",
-            "information":"Pentagram (veya Türkiye dışındaki adıyla Mezarkabul), kuruculuğunu Hakan Utangaç ve Cenk Ünnü'nün yaptığı Türk heavy metal grubudur. Grubun icra ettiği metal türü dönem dönem büyük değişimlere uğramıştır. Pentagram isimli ilk albümleri speed metal etkisinin baskın olduğu bir thrash metal albümüydü. İkinci albümleri Trail Blazer ise daha gelişmiş thrash metal müziği barındırmakla birlikte speed metal etkisinin azaldığı bir albümdür. Pentagram esas müzikal değişimini ve kendine has tarzını 1997 yılında çıkan üçüncü albümü Anatolia ile oluşturdu. Bu albümle birlikte Pentagram, müziğinde agresifliği azaltarak thrash metali tamamen terk etti. Anadolu ezgilerini ve orta doğunun müzikal etkilerini barından klasik heavy metal tarzını benimsedi. Anatolia'dan sonra çıkan Unspoken ve bir albümlerinde de bu çizgisini sürdürdü.",
-            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918011/etstur/Pentagram__28M_C3_BCzik_Grubu_29_teiazg.jpg",
-            "category":"music"
-        }
-        ,
-        {
-            "id":2,
-            "name":"Erdal Beşikçioğlu",
-            "artistCode":"erdal-besikcioglu",
-            "information":"5 Ocak 1970 tarihinde Ankara'da dünyaya geldi. Babası Ünyeli,[2] annesi ise Priştine'den Ankara'ya göç etmiş bir ailenin kızıdır.[3] Orta öğrenimini İzmir Özel Türk Koleji'nde tamamladı. İzmir Narlıdere Mehmet Seyfi Eraltay Lisesi'nden mezun oldu. 1989 yılında Hacettepe Üniversitesi Devlet Konservatuvarı'na girdi. Konservatuvar eğitimi sırasında İngiliz tiyatro yönetmeni William Gaskill'in yaratıcı drama üzerine atölye çalışmalarına katıldı. 1993 yılında mezun oldu ve aynı yıl Devlet Tiyatroları'nda oyuncu olarak göreve başladı. 1995–96 sezonunda Diyarbakır Devlet Tiyatrosu'nda Müdür Vekili olarak görev aldı.",
-            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918206/etstur/yjuoopdgqhmwwjymalve.jpg",
-            "category":"theatre"
-        }
-        ,
-        {
-            "id":3,
-            "name":"Feridun Düzağaç",
-            "artistCode":"feridun-duzagac",
-            "information":"İlkokulu Adana Hayriye Kemal Kusun İlkokulu'nda okudu. Ortaokulu ise Adana'da Seyhan Ortaokulu'nda bitirdi. Adana Borsa Lisesi'nde okurken okul korosunda ilk müzik deneyimlerini kazandı. Mezun olduktan sonra Çukurova Üniversitesi İktisadi ve İdari Bilimler Fakültesi İşletme Bölümünü'nü tamamladı. Üniversite yıllarında okuldaki arkadaşları ile amatörce başladığı müzik hayatında ilk kez Mersin'de Tını grubunun solisti olarak insanların karşısında şarkı söylemeye başladı.",
-            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918356/220px-Feridun_D_C3_BCza_C4_9Fa_C3_A7_-_18.2.22d_tp2pnj.jpg",
-            "category":"music"
-        }
-        ,
-
-        {
-            "id":4,
-            "name":"Redd",
-            "artistCode":"redd",
-            "information":"Redd, 1996 yılında Doğan Duru, Güneş Duru, Berke Hatipoğlu ve İlke Hatipoğlu tarafından kurulan Türk rock müzik grubudur. Grup 2020 itibarıyla altı stüdyo albümü, bir soundtrack albüm ve bir DVD yayımladı. 2010 Ocak ayında askerden dönen Berke Özgümüş resmen gruba katıldı.Berke ve İlke Hatipoğlu 12.09.2014 tarihinde Redd'in resmi Twitter sayfasından yaptığı açıklamayla Redd'den ayrıldıklarını ve bu nedenle Redd'in dağıldığını ilan ettiler. Hatipoğlu tarafı bu açıklamada Redd isminin kullanılması durumunda yasal işlem başlatacaklarını açıkladılar.[1]",
-            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918513/300px-Redd_in_red_gmr5nb.jpg",
-            "category":"music"
-        }
-        ,
-        {
-            "id":5,
-            "name":"Pink Martini",
-            "artistCode":"pink-martini",
-            "information":"Pink Martini küçük orkestra Portland, Oregon'da 1994 yılında piyanist Thomas M. Lauderdale tarafından kurulmuş müzik grubudur. Latin müziği, lounge, Avrupa Klasik Müziği ve cazı da kapsayan çok geniş bir müzik repartuarında eserler seslendirmektedirler. Müzik tarzları genellikle belli bir dönemin içerik ve stilini andıran vintage music olarak adlandırılır. Grubun birleşmesi Portland'daki politik ortam sayesinde olmuştur.[1] Avrupa'daki ilk sahne deneyimlerini Cannes Film Festivali ile yapmışlardır.[1] 2003 yılına kadar; Fransa, İspanya, Portekiz, Belçika, İsviçre, Monako, Yunanistan, Türkiye, Peru, Tayvan, Lübnan ve ABD'de çeşitli defalar sahne almışlar ve grup dışında başka orkestralara da eşllik etmişlerdir. Şarkı sözleri İngilizce, İspanyolca, Fransızca, İtalyanca, Portekizce, Japonca,Türkçe, Arap ve Modern Yunan dillerinden oluşmaktadır.[1]",
-            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918653/mesgd2bvzlecrewa5wut.jpg",
-            "category":"music"
-        }
-        ,
-        {
-            "id":6,
-            "name":"Perdenin Ardındakiler",
-            "artistCode":"pink-martini",
-            "information":"Kısa bir çalışma döneminden sonra da ilk teklileri “Gökyüzü”nü yapan ikili grup ismi hakkında bir ortaklık sağlayamadıkları için şarkıyı yayımlamak için bir süre beklemişler. Nihayetinde Doruk Ereşter’in okuduğu bir yazının içinde geçen cümlelerden birinde “Perdenin Ardındakiler”e rastlamış ve bunu Direnç’le paylaşmış. Grubun tavrı ve idealleri ile bu ismin örtüştüğünü düşünmüşler ve yola bu isimle çıkma kararı almışlar. Bu isimle anlatılmak istenen tavır ise oldukça karakteristik.",
-            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918995/izdjt79aswrhtcz0herz.jpg",
-            "category":"music"
-        }
-        ,
-        {
-            "id":7,
-            "name":"No Artists",
-            "artistCode":"no-artists",
-            "information":"No Available Information",
-            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655918847/uq4giqprmianifj0avpf.jpg"
-        }
-    ]
+    
    
 }
 
