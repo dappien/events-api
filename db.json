@@ -106,7 +106,7 @@
             ],
             "ticketPrices":1700,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655707046/etstur/Oludeniz-Yamac-Parasutu-600x450_slw1wr.jpg",
-            "artists":"no artists"
+            "artists":["no artists"]
         }
         ,
         {
@@ -154,7 +154,7 @@
             ],
             "ticketPrices":180,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655711023/etstur/2859410_1920x1080_cj5ger.jpg",
-            "artists":"Erdal Beşikçioğlu"
+            "artists":["Erdal Beşikçioğlu"]
         }
         ,
         {
@@ -174,7 +174,7 @@
             ],
             "ticketPrices":75,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655837761/etstur/ywyozi42bfljdwm0oevl.jpg",
-            "artists":"no artists"
+            "artists":["no artists"]
         }
         ,
         {
@@ -194,7 +194,7 @@
             ],
             "ticketPrices":200,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655838553/etstur/anka_tf2ymw.png",
-            "artists":"no artists"
+            "artists":["no artists"]
         }
         ,
         {
@@ -214,7 +214,7 @@
             ],
             "ticketPrices":280,
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655839207/etstur/18132fYHdD_rvz9dm.jpg",
-            "artists":"no artists"
+            "artists":["no artists"]
         }
 
     ],
