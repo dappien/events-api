@@ -257,6 +257,27 @@
             "artists":["no artists"],
             "artistCode":["no-artists"]
         }
+        ,
+        {
+            "id":11,
+            "title":"Gogol Bardello Concert",
+            "url":"gogol-bardello-concert",
+            "startingDate":"2022-06-29T18:00:00.141Z",
+            "finishingDate":"2022-06-30T22:00:00.141Z",
+            "category":"Concert",
+            "description":"Hem Roman Hem Punk: Gogol Bordello, yüzdeyüz eğlence ve sınırsız dans için 2 Temmuz’da Küçükçiftlik Park Sahnesinde! Punk rock'ı Roman kültürüyle buluşturan Gogol Bordello, sınırsız eğlence sunduğu gerçeküstü sahnesiyle 2 Temmuz Cumartesi akşamı KüçükÇiftlik Park’ta! İstanbullular, yazın en eğlenceli konserinde uzun zaman sonra %100 partileyecek ve gypsy müziğin kan kaynatan ritmiyle tüm gece dans edecek. İstanbul’un rakipsiz eğlence adresi KüçükÇiftlik Park’ta, Yüzdeyüz Müzik katkıları, Vera Müzik ve URU organizasyonuyla düzenlenen Gogol Bordello konserinin biletleri satışta! Gogol Bordello, alışılmadık müziği ve daha önce bir punk rock grubunda görülmemiş enerjisiyle sergilediği sahne şovuyla İstanbul’a 2022 yazının en iddialı eğlence programını vadediyor. Grubun beyni Eugene Hütz, Gogol Bordello için “Roman Punk Kabaresi” tanımlaması yaparak dünyanın dört bir yanındaki herkesin bu müziğin ritmine kapılacağını söylüyor.",
+            "venue":"KüçükÇiftlik Park",
+            "venueCode":"kucukciftlik-park",
+            "city":"istanbul",
+            "rules":[
+                "Etkinlik girişinde bilet kontrolü yapılacaktır, biletinizi telefondan göstermeniz gerekmektedir.",
+                "Katılımcılar/izleyiciler COVID-19 kapsamında alınan kurallara uymalıdır."
+            ],
+            "ticketPrices":[192,245,368,475,1000],
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1656040962/3436991_810x458_fxrlpe.jpg",
+            "artists":["Gogol Bardello"],
+            "artistCode":["gogol-bardello"]
+        }
     ],
     
 
