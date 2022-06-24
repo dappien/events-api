@@ -278,6 +278,28 @@
             "artists":["Gogol Bardello"],
             "artistCode":["gogol-bardello"]
         }
+        ,
+        {
+            "id":12,
+            "title":"Notre Dame'in Kamburu Müzikali",
+            "url":"notre-dame",
+            "startingDate":"2022-09-15T18:00:00.141Z",
+            "finishingDate":"2022-09-30T22:00:00.141Z",
+            "category":"Theatre",
+            "description":"Victor Hugo’nun ölümsüz eseri; Notre Dame'in Kamburu Müzikali, izleyicisiyle buluşmaya devam ediyor. Oyunda, çirkin ve kambur Kilise zangocu Quasimodo ile Fransa’nın ruhani ve dini lideri Claude Frollo’nun ve Kral'a bağlı komutan Phoebus'un semtte yaşayan çingene Kızı Esmeralda’ya olan aşklarını, Zangoç ile Papaz’ın ruhlarında oluşan ikilemleri ve tepkileri romantik yaklaşımla ele alan danslarıyla göz dolduran Türkçe müzikal… Quasimodo; çirkinliğiyle alay eden ondan korkan halkın içine karışmayan, insanların söylediklerini alay veya lanet saymayan, insanlara duyduğu kini her gün büyüyen biridir. Bir gün Esmeralda ile tanışır ve ona aşık olur",
+            "venue":"KüçükÇiftlik Park",
+            "venueCode":"kucukciftlik-park",
+            "city":"istanbul",
+            "rules":[
+                "12 yaşından küçük çocuklar etkinliğe alınmamaktadır.",
+                "12 yaş ve üzeri bilete tabidir.",
+                "Katılımcılar/izleyiciler COVID-19 kapsamında alınan kurallara uymalıdır."
+            ],
+            "ticketPrices":[192,245,368,475,1000],
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1656041649/muzikal7_q3kipn.jpg",
+            "artists":["no artists"],
+            "artistCode":["no-artists"]
+        }
     ],
     
 
