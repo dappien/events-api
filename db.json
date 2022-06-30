@@ -17,7 +17,7 @@
                 "18 yaş altı katılımcılara farklı renk bileklik uygulaması yapılacaktır.",
                 "Organizatör firma etkinlik için uygun görmediği kişileri bilet ücretini iade etmek kaydı ile içeri almama hakkına sahiptir."
             ],
-            "ticketPrices":[70,85,125,180,300],
+            "ticketPrices":[120,180,120,180,300],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655652414/etstur/tomodell-1080x1080-1-800x800_eazrnx.png",
             "artists":["Tom Odell","Perdenin Ardındakiler"],
             "artistCode":["tom-odell","perdenin-ardindakiler"]
@@ -38,7 +38,7 @@
                 "8 yaş ve üstü bilete tabidir. 8 yaş ve altı mekana alınmamaktadır.",
                 "Etkinliğe katılan kişilerin fotoğraf ve video çekimlerinin tanıtım materyallerinde kullanım hakkı etkinlik organizasyonuna ait olup katılımcı, etkinliğe katılarak bu hakkın kullanılmasını kabul etmektedir."
             ],
-            "ticketPrices":[100,250,400,600,1000],
+            "ticketPrices":[140,200,140,200,300],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655652414/etstur/pinkkkk_jtmf1y.png",
             "artists":["Pink Martini"],
             "artistCode":["pink-martini"]
@@ -66,7 +66,7 @@
                 "Satın alınan biletlerde iptal, iade ve değişiklik yapılmamaktadır.",
                 "Organizasyon firması, diğer misafirleri rahatsız eden/edecek nitelikte, uygun görmediği kişileri etkinlik için bilet bedelini iade etmek koşuluyla, etkinlik mekanına kişiyi almama hakkına sahiptir."
             ],
-            "ticketPrices":[100,200,300,400],
+            "ticketPrices":[180,300,180,300,500],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655655405/etstur/Ekran_Al%C4%B1nt%C4%B1s%C4%B12_tbryls.png",
             "artists":["Feridun Duzagac","Redd"],
             "artistCode":["feridun-duzagac","redd"]
@@ -88,7 +88,7 @@
                 "Organizasyon şirketinin programda ve bilet fiyatlarında değişiklik yapma hakkı saklıdır.",
                 "Kurallar gereği tüm seyircilerimiz maskeli olmak zorundadır."
             ],
-            "ticketPrices":[150,250,350,450],
+            "ticketPrices":[250,350,250,350,600],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655655785/etstur/cfa97-manganin-antroposen-turnesi-bugun-basliyor-turneyi-an-epic-symphony-ile-tamamlayacaklar_skd5hi.jpg",
             "artists":["manga"],
             "artistCode":["manga"]
@@ -113,7 +113,7 @@
                 "5 yaş altı çocuklar ve 100kg üzeri misafirlerimiz uçuşa uygun değildir.",
                 "Kampanya sınırlı sayıda bilette, Biletix.com üzerinden gerçekleştirilen bilet alımlarında geçerlidir."
             ],
-            "ticketPrices":[1700,1800,2200,300,4000],
+            "ticketPrices":[4200,6000,4200,6000,7000],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655707046/etstur/Oludeniz-Yamac-Parasutu-600x450_slw1wr.jpg",
             "artists":["no artists"],
             "artistCode":["no-artists"]
@@ -139,7 +139,7 @@
                 "Araba, motosiklet, römork, karavan, bisiklet vb. araçların kamp alanına alınmasına izin verilmemektedir",
                 "Festival bilekliğinizi festival boyunca çıkarmayınız."
             ],
-            "ticketPrices":[175,300,500,800,4100],
+            "ticketPrices":[175,300,175,300,800],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655709443/etstur/image0_kmmio0.jpg",
             "artists":["Pentagram"],
             "artistCode":["pentagram"]
@@ -165,7 +165,7 @@
                 "Etkinlik alanına yanıcı, patlayıcı (deodorant, sprey, parfüm vb. gibi), parlayıcı, kesici ve delici olarak kullanılabilecek her türlü alet ve lazer imleci ile girmek yasaktır. ",
                 "18 yaş altı katılımcılara alkol ve tütün ürünleri satışı yasaktır. "
             ],
-            "ticketPrices":[75,90,150,180,410],
+            "ticketPrices":[75,125,75,125,250],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655711023/etstur/2859410_1920x1080_cj5ger.jpg",
             "artists":["Erdal Beşikçioğlu"],
             "artistCode":["erdal-besikcioglu"]
@@ -187,7 +187,7 @@
                 "Yoga matlarının katılımcılar tarafından getirilmesini gerekmektedir. ",
                 "Organizasyon firması yeterli katılım sağlanmadığı takdirde etkinliği iptal/erteleme hakkını saklı tutar. "
             ],
-            "ticketPrices":[85,110,120,190,450],
+            "ticketPrices":[110,190,110,190,310],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655837761/etstur/ywyozi42bfljdwm0oevl.jpg",
             "artists":["no artists"],
             "artistCode":["no-artists"]
@@ -209,7 +209,7 @@
                 "Etkinliklerde 15 yaş sınırı vardır.",
                 "Etlinliklerde yiyecek içecek ikramlarımız bulunmaktadır dilerseniz kendinizde getirebilirsiniz."
             ],
-            "ticketPrices":[125,150,175,200,250],
+            "ticketPrices":[125,195,125,195,350],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655838553/etstur/anka_tf2ymw.png",
             "artists":["no artists"],
             "artistCode":["no-artists"]
@@ -231,7 +231,7 @@
                 "Belirtilen saat kapı açılış saatidir.",
                 "Organizasyon firması etkinlik için uygun görmediği kişileri bilet ücretini iade ederek etkinlik mekanına almama hakkına sahiptir."
             ],
-            "ticketPrices":[185,285,385,445,600],
+            "ticketPrices":[185,285,185,285,445],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655839207/etstur/18132fYHdD_rvz9dm.jpg",
             "artists":["no artists"],
             "artistCode":["no-artists"]
@@ -252,7 +252,7 @@
                 "Etkinlik girişinde bilet kontrolü yapılacaktır, biletinizi telefondan göstermeniz gerekmektedir.",
                 "Katılımcılar/izleyiciler COVID-19 kapsamında alınan kurallara uymalıdır."
             ],
-            "ticketPrices":[60,90,120,150,180],
+            "ticketPrices":[60,90,60,90,180],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655917251/etstur/medea-kali-3-2_zvcrrq.jpg",
             "artists":["no artists"],
             "artistCode":["no-artists"]
@@ -273,7 +273,7 @@
                 "Etkinlik girişinde bilet kontrolü yapılacaktır, biletinizi telefondan göstermeniz gerekmektedir.",
                 "Katılımcılar/izleyiciler COVID-19 kapsamında alınan kurallara uymalıdır."
             ],
-            "ticketPrices":[192,245,368,475,1000],
+            "ticketPrices":[192,245,192,245,560],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1656040962/3436991_810x458_fxrlpe.jpg",
             "artists":["Gogol Bardello"],
             "artistCode":["gogol-bardello"]
@@ -295,8 +295,30 @@
                 "12 yaş ve üzeri bilete tabidir.",
                 "Katılımcılar/izleyiciler COVID-19 kapsamında alınan kurallara uymalıdır."
             ],
-            "ticketPrices":[192,245,368,475,1000],
+            "ticketPrices":[225,285,225,285,400],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1656041649/muzikal7_q3kipn.jpg",
+            "artists":["no artists"],
+            "artistCode":["no-artists"]
+        }
+        ,
+        {
+            "id":13,
+            "title":"Çok Güzel Hareketler Bunlar 2",
+            "url":"cghb2",
+            "startingDate":"2022-08-08T18:00:00.141Z",
+            "finishingDate":"2022-08-08T22:00:00.141Z",
+            "category":"Theatre",
+            "description":"Yaklaşık 2 yıl boyunca sahne, senaryo ve oyunculuk eğitimlerinden geçen ve 4 sezondur BKM’de kapalı gişe oynayan Çok Güzel Hareketler 2, Eser Yenenler kaptanlığında 16 Ağustos’ta sahnede.Bkm Mutfak’ın her biri birbirinden yetenekli ekibi, 16 Ağustos Salı akşamı DenizBank Açıkhava Etkinlikleri kapsamında kahkaha dolu skeçleriyle seyirci karşısında olacak. * DenizBank Açık Hava Etkinliklerine %15 indirim!",
+            "venue":"İstanbul Büyükşehir Belediyesi Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+            "venueCode":"harbiye-cemil-topuzlu",
+            "city":"istanbul",
+            "rules":[
+                "6 yaş altı etkinlik alanına alınmamaktadır. 6 ve 6 yaş üstü her yaştan katılımcı bilete tabidir. ",
+                "Tüm katılımcıların kimliklerini yanlarında bulundurması ve istendiğinde ibraz etmeleri gerekmektedir.",
+                "Katılımcılar/izleyiciler COVID-19 kapsamında alınan kurallara uymalıdır."
+            ],
+            "ticketPrices":[320,445,320,445,800],
+            "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1656622567/etstur/cok-guzel-hareketler-bunlar-2-gunu-mu-degisti-13908555_7052_amp_bq9wpr.webp",
             "artists":["no artists"],
             "artistCode":["no-artists"]
         }
