@@ -46,7 +46,7 @@
         ,
         {
             "id":2,
-            "title":"Vadi Fest : Feridun Düzağaç & Redd & Mavi Gri",
+            "title":"Vadi Fest : FD & Redd & Mavi Gri",
             "url":"vadi-fest",
             "startingDate":"2022-06-24T20:00:00.141Z",
             "finishingDate":"2022-06-24T23:59:00.141Z",
@@ -426,7 +426,7 @@
             "id":6,
             "venueCode":"burgazada",
             "location":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12065.713269675112!2d29.0629313!3d40.8844185!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9743c5c4c3e09c81!2sCennet%20Bah%C3%A7esi%20-%20Burgazada!5e0!3m2!1str!2str!4v1655839328201!5m2!1str!2str",
-            "name":"Milyon Beach Kilyos",
+            "name":"Burgazada Cennet Bahçesi",
             "city":"İstanbul",
             "venueDescription":"Burgazada Cennet Bahçesi, açık hava sahnesiyle çeşitli etkinliklere ev sahipliği yapmaya devam ediyor.Yaz aylarında İstanbul'un vazgeçilmez açık hava etkinlik mekanı Burgazada Cennet Bahçesi, çeşitli etkinliklere ev sahipliği yapıyor. Tiyatro, konser, festival, tasarım pazarı, yoga-pilates eğitimleri gibi farklı aktiviteler bu yaz sezonunda da Burgazada’da sevenleriyle buluşuyor.  ",
             "seatNumber":10000,
