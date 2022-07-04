@@ -2,8 +2,8 @@
     "events":[
         {
             "id":0,
-            "title":"Enter the Music: Tom Odell & Perdenin Ardındakiler",
-            "url":"tom-odell-perdenin-ardındakiler",
+            "title":"Enter the Music: Tom Odell",
+            "url":"tom-odell",
             "startingDate":"2018-12-10T13:49:51.141Z",
             "finishingDate":"2018-12-10T13:49:51.141Z",
             "category":"Concert",
@@ -19,8 +19,8 @@
             ],
             "ticketPrices":[120,180,120,180,300],
             "banner":"https://res.cloudinary.com/droheqpxn/image/upload/v1655652414/etstur/tomodell-1080x1080-1-800x800_eazrnx.png",
-            "artists":["Tom Odell","Perdenin Ardındakiler"],
-            "artistCode":["tom-odell","perdenin-ardindakiler"]
+            "artists":["Tom Odell"],
+            "artistCode":["tom-odell"]
         }
         ,
         {
